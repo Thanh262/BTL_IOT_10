@@ -1,0 +1,3 @@
+2 file
+Esp32-cam chụp và gửi ảnh lên google drive
+Google Script tự động tạo thư mục và nhận ảnh vào các thư mục tương ứng.
